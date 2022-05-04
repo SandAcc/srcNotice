@@ -6,7 +6,7 @@
 
 ✔ 填写Server酱key后可运行结果可推送至企业微信统一管理
 
-✔ 支持的SRC平台【当前共计60家】
+✔ 支持的SRC平台【当前共计60家】,较之前多更了33家SRC，修了一些bug，优化了一下脚本
 
 # 安装与使用
 git clone https://github.com/0dinary/srcNotice.git
