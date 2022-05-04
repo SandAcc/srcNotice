@@ -1089,7 +1089,7 @@ if __name__ == '__main__':
 
 Version：0.3              date: 2022-05-04
 Author_01: TeamsSix          微信公众号：TeamsSix	                Blog: teamssix.com            Github: github.com/teamssix
-Author_02: 0dinary 	           QQ: 2996676785		wechat:C1994101Y	           Github: github.com/0dinary	
+Author_02: 0dinary 	         QQ: 2996676785		                  Wechat:C1994101Y	            Github: github.com/0dinary	
 \033[0m''')
     global key
     key = ''  # 填写上你 Server酱的 key，key 申请地址：http://sc.ftqq.com/
