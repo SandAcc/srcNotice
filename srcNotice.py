@@ -1084,12 +1084,12 @@ if __name__ == '__main__':
 
 ✔ 爬取各个SRC平台的公告通知
 ✔ 对2020年发布的活动通知进行红色高亮显示
-✔ 【进阶版】将当天发布的公告推送到微信上，结合系统定时任务可实现SRC平台公告监测
+✔ 将当天发布的公告推送到微信上，结合系统定时任务可实现SRC平台公告监测
 ✔ 支持的SRC平台[当前共计60家]
 
 Version：0.3              date: 2022-05-04
-Author: TeamsSix、ordinary          微信公众号：TeamsSix
-Blog: teamssix.com        Github: github.com/teamssix
+Author_01: TeamsSix          微信公众号：TeamsSix	                Blog: teamssix.com            Github: github.com/teamssix
+Author_02: 0dinary 	           QQ: 2996676785		wechat:C1994101Y	           Github: github.com/0dinary	
 \033[0m''')
     global key
     key = 'SCT144100TzKQZ8Rz8Nvjv7UH9k6AHAiNm'  # 填写上你 Server酱的 key，key 申请地址：http://sc.ftqq.com/
@@ -1159,5 +1159,3 @@ Blog: teamssix.com        Github: github.com/teamssix
     vip(number)  # 唯品会
     wifi(number)  # WIFI万能钥匙
     zto(number)  # 中通
-
-
