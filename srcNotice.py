@@ -1092,7 +1092,7 @@ Author_01: TeamsSix          微信公众号：TeamsSix	                Blog: te
 Author_02: 0dinary 	           QQ: 2996676785		wechat:C1994101Y	           Github: github.com/0dinary	
 \033[0m''')
     global key
-    key = 'SCT144100TzKQZ8Rz8Nvjv7UH9k6AHAiNm'  # 填写上你 Server酱的 key，key 申请地址：http://sc.ftqq.com/
+    key = ''  # 填写上你 Server酱的 key，key 申请地址：http://sc.ftqq.com/
     number = 4
     if key == '':
         print('请在代码第 1095 行填写上你 Server酱的 key，key 申请地址：http://sc.ftqq.com/')
